@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "name": "linux",
+            "includePath": [
+                "/usr/include",
+                "/usr/local/include",
+                "${workspaceFolder}",
+                "${workspaceFolder}/include",
+                "/opt/devkitpro/devkitARM/arm-none-eabi/include",
+                "/opt/devkitpro/devkitARM/lib/gcc/arm-none-eabi/12.1.0/include",
+                "/opt/devkitpro/libgba/include"
+            ],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "/usr/include",
+                    "/usr/local/include",
+                    "${workspaceFolder}",
+                    "${workspaceFolder}/include",
+                    "/opt/devkitpro/devkitARM/arm-none-eabi/include",
+                    "/opt/devkitpro/devkitARM/lib/gcc/arm-none-eabi/12.1.0/include",
+                    "/opt/devkitpro/libgba/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}

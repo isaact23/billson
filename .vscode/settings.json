@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "image_tiles.h": "c",
+        "rat.h": "c",
+        "data_path.h": "c",
+        "stdlib.h": "c",
+        "interact_manager.h": "c",
+        "cat.h": "c",
+        "screen_manager.h": "c",
+        "grid_selector.h": "c",
+        "gba_types.h": "c",
+        "cat_storage.h": "c"
+    }
+}

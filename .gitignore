@@ -1,0 +1,6 @@
+# .vscode
+build
+catsvsratsgba.*
+# *.sh
+opt
+resources
