@@ -9,6 +9,8 @@
         "screen_manager.h": "c",
         "grid_selector.h": "c",
         "gba_types.h": "c",
-        "cat_storage.h": "c"
+        "cat_storage.h": "c",
+        "gba_interrupt.h": "c",
+        "game_manager.h": "c"
     }
 }
